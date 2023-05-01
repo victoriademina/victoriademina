@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Heya! I'm Victoria - a software engineer with 2+ years of experience in IT consulting.<br>🔭 I’m currently working on Shelfie - a mobile app that will help you keep track of books you read.<br>👯 I’m looking to collaborate on open-source projects, especially greenfield.
+👋 Heya! I'm Victoria - a software engineer based in London 🇬🇧.<br>
+🔭 I enjoy back-end development and everything related to cloud architecture. Although, in my day-to-day work I do everything from React to Data.<br>
+👯 I’m looking to collaborate on open-source projects and connect with new people!
 
 
 ## 🌐 Socials:
